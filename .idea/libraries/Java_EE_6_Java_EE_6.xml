@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-template-s3-master/src/main/java/org/ebaysf/web/cors/lib/javax.resource.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

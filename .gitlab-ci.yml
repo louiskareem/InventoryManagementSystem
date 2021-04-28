@@ -1,0 +1,28 @@
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script:
+    - cd rest-template-s3-master
+    - ./gradlew build
+
+test:
+  stage: test
+  script:
+    - cd rest-template-s3-master
+    - ./gradlew test
+    - ./gradlew integrationTest
+
+cypress:
+  image: cypress/base:10
+  stage: test
+  before_script:
+    - cd rest-template-s3-master/src/main/webapp/ui
+    - npm install
+  script:
+    - npm run dev
+
+after_script:
+  - echo "End CI"

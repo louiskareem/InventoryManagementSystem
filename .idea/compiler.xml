@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="amzn-web-app" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo.main" target="1.8" />
+      <module name="demo.test" target="1.8" />
+      <module name="pronto_restful_api.integration" target="1.8" />
+      <module name="simple-maven-web" target="1.8" />
+      <module name="simple-maven-web (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

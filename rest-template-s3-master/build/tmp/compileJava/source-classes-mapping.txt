@@ -1,0 +1,49 @@
+model/Role.java
+ model.Role
+dao/CategoryDao.java
+ dao.CategoryDao
+ dao.CategoryDao$1
+model/Employee.java
+ model.Employee
+org/demo/ProductController.java
+ org.demo.ProductController
+model/Inventory.java
+ model.Inventory
+persistence/MysqlDatabase.java
+ persistence.MysqlDatabase
+mg/utils/ResourceConfigInfo.java
+ mg.utils.ResourceConfigInfo
+dao/InventoryDao.java
+ dao.InventoryDao
+ dao.InventoryDao$1
+org/demo/InventoryController.java
+ org.demo.InventoryController
+model/User.java
+ model.User
+org/demo/Main.java
+ org.demo.Main
+ org.demo.Main$1
+mg/utils/Cryptography.java
+ mg.utils.Cryptography
+mg/utils/CORSFilter.java
+ mg.utils.CORSFilter
+model/Manager.java
+ model.Manager
+model/Category.java
+ model.Category
+model/Product.java
+ model.Product
+dao/ProductDao.java
+ dao.ProductDao
+ dao.ProductDao$1
+org/demo/UserController.java
+ org.demo.UserController
+dao/UserDao.java
+ dao.UserDao
+mg/utils/EmailConfig.java
+ mg.utils.EmailConfig
+ mg.utils.EmailConfig$1
+ mg.utils.EmailConfig$2
+ mg.utils.EmailConfig$3
+mg/utils/TokenGenerator.java
+ mg.utils.TokenGenerator

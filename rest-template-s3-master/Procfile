@@ -1,0 +1,1 @@
+web: java -jar build/libs/pronto_restful_api.jar

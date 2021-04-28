@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserIT" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-01-21T11:46:16" hostname="KAREEMSXM" time="512.068">
+  <properties/>
+  <testcase name="registerUserIntegrationTest" classname="UserIT" time="0.563"/>
+  <testcase name="loginUserIntegrationTest" classname="UserIT" time="511.505"/>
+  <system-out><![CDATA[Connected to Pronto's database!
+Connected to Pronto's database!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
