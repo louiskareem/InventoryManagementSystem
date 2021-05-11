@@ -8,3 +8,5 @@ This is an web application of a simple inventory management system
 * Integrate two-factor verification
 * How to build the front-end using REACTJS
 * How to build the back-end using JAVA, Gradle
+* Integrate MVC methodology
+* SOLID principles
